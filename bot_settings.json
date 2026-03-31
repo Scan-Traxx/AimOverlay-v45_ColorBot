@@ -1,0 +1,24 @@
+{
+    "target_color": [
+        0,
+        0,
+        0
+    ],
+    "radius": 138,
+    "tolerance": 18,
+    "smoothing": 1.6,
+    "deadzone": 49,
+    "height_correction": 23,
+    "show_line": true,
+    "line_color": "#00ff40",
+    "show_radius": true,
+    "fov_color": "#ff0000",
+    "show_marker": true,
+    "marker_size": 15,
+    "marker_color": "#65f54b",
+    "autofire": true,
+    "activation_key": "alt",
+    "gui_bg": "#5b84c4",
+    "gui_fg": "#ffffff",
+    "gui_geometry": "340x700+222+130"
+}
